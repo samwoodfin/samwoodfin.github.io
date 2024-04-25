@@ -22,7 +22,7 @@ title: Sharonda Woodfin's Jekyll
 email: sam@sharonda.me
 description: >- # this means to ignore newlines until "baseurl:"
   This is Sharonda Woodfin's Jekyll site for learning about Git, Github, Jekyll, and YAML, playing with iA Writer, Visual Studio Code and the macOS Terminal, and logging all of the above.
-baseurl: "samwoodfin" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  samwoodfin
